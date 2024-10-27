@@ -1,1 +1,2 @@
-# LaptopRentalsCRM_application
+##### LaptopRentalsCRM_application
+##### This project is centered around the development of a CRM solution using Salesforce for managing laptop rentals. The application aims to streamline the rental process, ensuring accurate inventory tracking, efficient customer management, and timely reporting. By leveraging Salesforce, this solution will enhance operational efficiency, improve data accuracy, and optimize user experience.
